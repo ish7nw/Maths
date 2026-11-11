@@ -25,4 +25,3 @@ print()
 print(A@B.T)
 print()
 print((A@B.T).shape)
-
